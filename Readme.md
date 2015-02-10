@@ -26,11 +26,15 @@ Right click on any file -> SendTo -> TFTPCE
 Know issues
 
 Can´t send more than X files 
+
  ---> This is a limitation of the command line building for the batch file.
+ 
 Can´t Send directories.
 
 Features added from a standard TFTP server
+
 ----> You can ascend or descend directories. 
 
 Questions?
-Marcelo van Kampen - mvkampen@gmail.com
+
+Marcelo van Kampen - mavkampen@yahoo.com.br
