@@ -6,7 +6,9 @@ This software should be used as a development tool only. It should not be used i
 because
 
 1-) It is buggy
+
 2-) It is just a hacked port from an untested unix implementation
+
 3-) It is not secure AT ALL
 
 License: GPL
@@ -23,9 +25,9 @@ Right click on any file -> SendTo -> TFTPCE
 
 Know issues
 
-Can´t send more than X files 
+CanÂ´t send more than X files 
  ---> This is a limitation of the command line building for the batch file.
-Can´t Send directories.
+CanÂ´t Send directories.
 
 Features added from a standard TFTP server
 ----> You can ascend or descend directories.
