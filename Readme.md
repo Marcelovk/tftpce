@@ -30,7 +30,7 @@ Can´t send more than X files
 Can´t Send directories.
 
 Features added from a standard TFTP server
-----> You can ascend or descend directories.
+----> You can ascend or descend directories. 
 
 Questions?
 Marcelo van Kampen - mvkampen@gmail.com
